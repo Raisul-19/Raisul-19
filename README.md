@@ -1,6 +1,7 @@
 - 👋 Hi, I’m MD Raisul Islam
 - 👀 I’m interested in "Full-Stack Web Development"
-- 🌱 I’m currently learning "Font-End Web Design"
+- 🌱 I’ve completed "Font-End Web Design"
+- 🌱 I’m learning "Back-End Web Development by PHP with Laravel"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
